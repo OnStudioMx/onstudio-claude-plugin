@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "onstudio": {
+      "type": "http",
+      "url": "https://api.onstudio.ai/mcp/admin"
+    }
+  }
+}

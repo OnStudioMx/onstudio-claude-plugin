@@ -1,0 +1,13 @@
+{
+  "name": "onstudio-admin",
+  "version": "0.1.2",
+  "license": "MIT",
+  "description": "Administra tu estudio con OnStudio.",
+  "author": {
+    "name": "OnStudio",
+    "url": "https://onstudio.mx"
+  },
+  "homepage": "https://onstudio.mx",
+  "icon": "./assets/onstudio.png",
+  "privacyPolicyUrl": "https://onstudio.mx/privacidad"
+}
